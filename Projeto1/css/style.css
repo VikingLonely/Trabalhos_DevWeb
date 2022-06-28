@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    text-align: center;
+    margin: 30px;
+    background-color: rgb(65, 65, 90);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 30px;
+    color: blanchedalmond;
+
+}
+.pag{
+    box-sizing: border-box;
+    margin-top: 10px;
+    text-align: center;
+    background-color: rgb(84, 95, 104);
+    padding: 10px;
+}
+
+.header{
+    text-align: center;
+    
+
+}
