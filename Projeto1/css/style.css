@@ -29,6 +29,7 @@ body{
 }
 
 .menu{
+    overflow: hidden;
     background-color: rgb(151, 182, 223);
     padding: 10px;
     border-radius: 10px;
@@ -50,7 +51,6 @@ body{
     display: flex;
     margin: 5px;
     margin-top: 10px;
-   
 }
 
 .column_left{
@@ -87,7 +87,7 @@ h2{
 .p2{
     text-align: justify;
     font-size: 14px;
- }
+}
 
 .column_right{
     width: 1500px;
